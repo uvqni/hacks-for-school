@@ -1,2 +1,1 @@
-# hacks-for-school
-idk
+tons of school hacks inside bookmarklets 
